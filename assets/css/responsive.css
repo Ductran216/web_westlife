@@ -1,0 +1,133 @@
+@media (min-width: 741px) {
+    #header .search-btn {
+        display: block ;
+    }
+
+    #header .mobile-menu {
+        display: none;
+    }
+}
+
+@media (max-width: 1023px) {
+    .place-buybtn {
+        padding: 15px 16px;
+    }
+
+    .form-control {
+        padding: 15px;
+    }
+
+    .social {
+        font-size: 32px;
+    }
+
+    .social a {
+        margin: 0 8px;
+    }
+
+    .copyright a {
+        padding: 12px 0;
+        display: inline-block;
+    }
+
+    .contact-info {
+        line-height: 2;
+    }
+}
+
+@media (max-width: 740px) {
+    #header {
+        overflow: hidden;
+    }
+
+    #nav > li {
+        display: block;
+    }
+    #header .search-btn {
+        display: none;
+    }
+
+    #header .mobile-menu {
+        display: block;
+    }
+
+    #nav {
+        display: block;
+    }
+
+    #nav li a {
+        display: block;
+    }
+
+    #nav > li:first-child {
+        display: inline-block;
+    }
+
+    #nav .subnav {
+        position: initial;
+    }
+
+    #nav li:hover {
+        background-color: #333;
+    }
+
+    #nav li:hover .subnav {
+        display: initial;
+    }
+
+    #nav .subnav li a {
+        color: white;
+    }
+
+    #nav .subnav li {
+        padding: 16px 16px 8px 16px;
+    }
+
+    #content .member-item1 {
+        padding-top: 50%;
+        width: 50%;
+        float: none;
+        margin: 68px auto 0 auto;
+    }
+
+    #content .member-item2 {
+        padding-top: 50%;
+        width: 50%;
+        float: none;
+        margin: 68px auto 0 auto;
+    }
+
+    #content .member-item3 {
+        padding-top: 50%;
+        width: 50%;
+        float: none;
+        margin: 68px auto 0 auto;
+    }
+
+    #content .member-item4 {
+        padding-top: 50%;
+        width: 50%;
+        float: none;
+        margin: 68px auto 0 auto;
+    }
+
+    #content .member-name {
+        top: -25px;
+    }
+
+    .s-col-one {
+        width: 100%;
+    }
+
+    .contact-form {
+        margin-top: 32px;
+    }
+
+    .s-mt8 {
+        margin-top: 8px;
+    }
+
+    .s-full-width {
+        width: 100%;
+    }
+}
