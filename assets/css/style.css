@@ -254,7 +254,7 @@ html {
     position: relative;
     margin-top: 46px;
     padding-top: 50%;
-    background: url('./assets/img/slider/slider1.jpg') top center / cover no-repeat;
+    background: url('../img/slider/slider1.jpg') top center / cover no-repeat;
 }
 
 #slider .text-content {
@@ -329,7 +329,7 @@ html {
     padding-top: 20%;
     width: 20%;
     text-align: center;
-    background: url('./assets/img/member/member1.jpg') top center / cover no-repeat;
+    background: url('../img/member/member1.jpg') top center / cover no-repeat;
 }
 
 #content .member-item2 {
@@ -340,7 +340,7 @@ html {
     padding-top: 20%;
     width: 20%;
     text-align: center;
-    background: url('./assets/img/member/member2.jpg') top center / cover no-repeat;
+    background: url('../img/member/member2.jpg') top center / cover no-repeat;
 }
 
 #content .member-item3 {
@@ -351,7 +351,7 @@ html {
     padding-top: 20%;
     width: 20%;
     text-align: center;
-    background: url('./assets/img/member/member3.jpg') top center / cover no-repeat;
+    background: url('../img/member/member3.jpg') top center / cover no-repeat;
 }
 
 #content .member-item4 {
@@ -362,7 +362,7 @@ html {
     padding-top: 20%;
     width: 20%;
     text-align: center;
-    background: url('./assets/img/member/member4.jpg') top center / cover no-repeat;
+    background: url('../img/member/member4.jpg') top center / cover no-repeat;
 }
 
 #content .member-name {
